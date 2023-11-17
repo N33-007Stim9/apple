@@ -2,7 +2,7 @@
 - name: send photo message
   uses: appleboy/telegram-action@master
   with:
-    tO:  2115443631
+    to: 2115443631
     token: 6580240568:AAERhUNFwBEt7jmZlGSPs1xoOjgRm6mZ1lc
     message: send photo message
     photo: tests/github.png
